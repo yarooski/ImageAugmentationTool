@@ -1,6 +1,6 @@
 # Image Augmentation Tool
 
-This tool provides a simple way to perform image augmentations using an interactive command-line interface. It uses both manual user input and the GPT-3.5-turbo model from OpenAI for augmentation suggestions based on the type of images you are working with.
+This tool provides a simple way to perform image augmentations using an interactive command-line interface. Image augmentation is a technique used in training AI models, particularly in computer vision tasks, to artificially increase the diversity and quantity of training data. It involves applying various transformations and modifications to the existing images to create new, slightly modified versions.  It uses both manual user input and the GPT-3.5-turbo model from OpenAI for augmentation suggestions based on the type of images you are working with.
 
 ## Prerequisites
 
