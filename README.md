@@ -7,7 +7,7 @@ This tool provides a simple way to perform image augmentations using an interact
 Before you begin, ensure you have met the following requirements:
 
 - You have a Windows machine. This tool was developed and tested on Windows 10, but it should work on other versions as well.
-- You have Python 3.7 or later installed on your machine.
+- You have Python 3.10 or later installed on your machine.
 - You have installed the required Python dependencies. You can install these by running `pip install -r requirements.txt` from your command line.
 
 ## Usage
