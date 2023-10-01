@@ -8,13 +8,13 @@ Before you begin, ensure you have met the following requirements:
 
 - You have a Windows machine. This tool was developed and tested on Windows 10, but it should work on other versions as well.
 - You have Python 3.10 or later installed on your machine.
-- You have installed the required Python dependencies. You can install these by running `pip install -r requirements.txt` from your command line.
+- You have installed the required Python dependencies. You can install these by running `py -m pip install -r requirements.txt` from your command line.
 
 ## Usage
 
 1. Download or clone this repository to your local machine.
 2. Open a command line interface (such as Command Prompt or PowerShell) and navigate to the directory containing `ImageAugmentationTool.py`.
-3. Run the script by typing `python ImageAugmentationTool.py` and pressing enter.
+3. Run the script by typing `py ImageAugmentationTool.py` and pressing enter.
 4. Follow the prompts on the terminal to specify the input and output directories, and to choose the augmentation methods.
 
 In the manual mode of the augmentation, you will be prompted to enter values for each type of transformation. If you don't want to manually specify a value, you can simply press "enter", and the program will use the following default values:
