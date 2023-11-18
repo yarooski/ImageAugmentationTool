@@ -13,9 +13,11 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 
 1. Download or clone this repository to your local machine.
-2. Open a command line interface (such as Command Prompt or PowerShell) and navigate to the directory containing `ImageAugmentationTool.py`.
-3. Run the script by typing `py ImageAugmentationTool.py` and pressing enter.
+2. Open a command line interface (such as Command Prompt or PowerShell) and navigate to the directory containing `ImageAugmentationTool_V2.py`.
+3. Run the script by typing `py ImageAugmentationTool_V2.py` and pressing enter.
 4. Follow the prompts on the terminal to specify the input and output directories, and to choose the augmentation methods.
+
+If you say "yes" to using chatGPT, it will prompt for an OpenAI key. This key is saved in the local directly from which this application is ran. Next time it is ran, it will first check for any saved keys.
 
 In the manual mode of the augmentation, you will be prompted to enter values for each type of transformation. If you don't want to manually specify a value, you can simply press "enter", and the program will use the following default values:
 
